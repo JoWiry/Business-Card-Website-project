@@ -30,4 +30,5 @@ To view and edit the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/business-card-website.git
+   git clone https://github.com/yourusername/Business-Card-Website-project.git
+
