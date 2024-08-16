@@ -1,4 +1,5 @@
 # Business Card Website
+Website link: https://jowiry.github.io/Business-Card-Website-project/
 
 This is a personal business card website for **Grigoriy Akimov**. The website showcases personal information, skills, and contact details.
 
@@ -7,8 +8,8 @@ This is a personal business card website for **Grigoriy Akimov**. The website sh
 The project consists of the following main files and folders:
 
 - `index.html`: The main HTML file that structures the content of the website.
-- `../css/style.css`: A directory that contains the CSS styles used in the project.
-- `../img/photo_2024-08-13_23-32-15.jpg`: A directory that contains the images used on the website.
+- `css/style.css`: A directory that contains the CSS styles used in the project.
+- `img/photo_2024-08-13_23-32-15.jpg`: A directory that contains the images used on the website.
 
 ## Features
 
